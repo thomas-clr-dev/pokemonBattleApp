@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pokemonBattleApp",
-    "slug": "pokemonBattleApp",
+    "name": "PokemonBattleApp",
+    "slug": "PokemonBattleApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
